@@ -1,6 +1,6 @@
 # Honours Project Code Listing
 The purpose of this application is to facilitate easier testing of machine learning techniques.
-Many of the scripts included in this code listing will not be usable because the datasets they depend on are too large to be included here. They will be available on the following github profile: github.com/breay200
+Many of the scripts included in this code listing will not be usable because the datasets they depend on are too large to be included here. They will be available on the following github profile: github.com/reayboi
 
 ## Requirements
 Prior to running the program, it is necessary to install the prerequisite libraries.
